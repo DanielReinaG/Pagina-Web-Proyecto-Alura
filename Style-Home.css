@@ -1,0 +1,42 @@
+.principal{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.tituloPrincipal{
+    padding-left: 30px;
+}
+p{
+    text-align: center;
+}
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+.tituloCentralizado{
+    text-align: center;
+}
+.items{
+    font-size: italic;
+}
+/*INLINE-BLOCK= PERMITE QUE ESE TEXTO OCUPE SOLO EL ESPACIO DE SU CONTENIDO, QUE SU ESPACIADO PUEDA SER AJUSTABLES */
+/*VERTICAL-ALIGN = PERMITE ALINEAR DE MANERA VERTICAL EL CONTENIDO EN LA PARTE SUPERIOR (TOP)*/
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDif{
+    width: 50%;
+}
+
+em strong{
+    color: green;
+}
+
+#banner{
+    width: 100%;
+}
